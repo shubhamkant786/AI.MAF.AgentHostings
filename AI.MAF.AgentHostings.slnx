@@ -1,0 +1,15 @@
+<Solution>
+  <Project Path="AI.MAF.AgentHostings.AspireHost.DevUI/AI.MAF.AgentHostings.AspireHost.DevUI.csproj" Id="8a533646-f725-4e61-becd-8410db35985b" />
+  <Project Path="AI.MAF.AgentHostings.AzureFunctions.DurableAgent/AI.MAF.AgentHostings.AzureFunctions.DurableAgent.csproj" />
+  <Project Path="AI.MAF.AgentHostings.AzureFunctions.DurableWorkflow/AI.MAF.AgentHostings.AzureFunctions.DurableWorkflow.csproj" />
+  <Project Path="AI.MAF.AgentHostings.AzureFunctions/AI.MAF.AgentHostings.AzureFunctions.csproj" />
+  <Project Path="AI.MAF.AgentHostings.FoundryLocal/AI.MAF.AgentHostings.FoundryLocal.csproj" Id="aaa3ce56-aed2-4836-8284-ac10bd65ea5f" />
+  <Project Path="AI.MAF.AgentHostings.RestAPI.A2AServer/AI.MAF.AgentHostings.RestAPI.A2AServer.csproj" />
+  <Project Path="AI.MAF.AgentHostings.RestAPI.AgentHost.Invocations/AI.MAF.AgentHostings.RestAPI.AgentHost.Invocations.csproj" />
+  <Project Path="AI.MAF.AgentHostings.RestAPI.AgentHost/AI.MAF.AgentHostings.RestAPI.AgentHost.Responses.csproj" />
+  <Project Path="AI.MAF.AgentHostings.RestAPI.AGUI.CalledService/AI.MAF.AgentHostings.RestAPI.AGUI.CalledService.csproj" />
+  <Project Path="AI.MAF.AgentHostings.RestAPI.AGUI.CallerService/AI.MAF.AgentHostings.RestAPI.AGUI.CallerService.csproj" />
+  <Project Path="AI.MAF.AgentHostings.RestAPI.DevUI.DeveloperAgent/AI.MAF.AgentHostings.RestAPI.DevUI.DeveloperAgent.csproj" Id="933d2dc1-72e6-4ecd-b1fb-b234fd7d6bab" />
+  <Project Path="AI.MAF.AgentHostings.RestAPI.DevUI.TesterAgent/AI.MAF.AgentHostings.RestAPI.DevUI.TesterAgent.csproj" Id="094fac34-d48e-489d-92b7-3a4082777c6e" />
+  <Project Path="AI.MAF.AgentHostings.RestAPI/AI.MAF.AgentHostings.RestAPI.csproj" Id="e9db5923-f1a2-497e-abbe-bac179f1b8ec" />
+</Solution>

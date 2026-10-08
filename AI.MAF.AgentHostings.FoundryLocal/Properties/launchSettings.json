@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "AI.MAF.AgentHostings.FoundryLocal": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}

@@ -1,0 +1,6 @@
+@AI.MAF.AgentHostings.RestAPI.AgentHost.Invocations_HostAddress = http://localhost:5105
+
+GET {{AI.MAF.AgentHostings.RestAPI.AgentHost.Invocations_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

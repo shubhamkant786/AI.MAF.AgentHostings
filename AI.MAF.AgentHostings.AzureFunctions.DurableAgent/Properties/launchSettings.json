@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "AI.MAF.AgentHostings.AzureFunctions.DurableAgent": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7177",
+      "launchBrowser": false
+    }
+  }
+}

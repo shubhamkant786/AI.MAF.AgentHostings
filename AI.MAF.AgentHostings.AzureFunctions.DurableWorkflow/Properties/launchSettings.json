@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "AI.MAF.AgentHostings.AzureFunctions.DurableWorkflow": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7140",
+      "launchBrowser": false
+    }
+  }
+}
