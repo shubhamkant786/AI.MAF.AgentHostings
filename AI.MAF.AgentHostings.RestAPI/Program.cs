@@ -1,6 +1,8 @@
 using Azure.AI.OpenAI;
 using Azure.Identity;
+using Microsoft.Agents.AI;
 using Microsoft.Agents.AI.Hosting;
+using Microsoft.Agents.AI.Workflows;
 using Microsoft.Extensions.AI;
 using OpenAI;
 using Scalar.AspNetCore;
@@ -50,6 +52,16 @@ builder.AddAIAgent(
         Keep responses concise — 3-5 sentences per turn. Be polite and opinionated.        
         """,
     chatClient);
+
+//builder.AddWorkflow("TourismQueryPlanningWorkflow",
+//    (sp, key) =>
+//    {
+//        var tAgent = sp.GetRequiredKeyedService<AIAgent>("TourismQueryPlanningAgent");
+//        var sAgent = sp.GetRequiredKeyedService<AIAgent>("ItServiceDeskAgent");
+
+//        // Workflow implementation goes here
+//        return AgentWorkflowBuilder.BuildSequential(key, [tAgent, sAgent]);
+//    });
 
 
 var app = builder.Build();
